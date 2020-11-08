@@ -1,0 +1,28 @@
+* {
+	background: #ceb6f7;
+
+}
+
+h5 {
+	padding: 20px 30px; 
+}
+h6 {
+	margin: 10px;
+	display: inline-block;
+	padding: 100px
+	box-sizing: border-box;
+	text-align: center;
+	transform: rotate(-350deg);
+
+}
+
+img {
+	border-radius: 2em; 
+	border: 7px outset gray
+
+}
+
+#vamo {
+       background-color: red
+      
+}
